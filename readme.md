@@ -1,5 +1,5 @@
 fonts
 =====
 
-Kannada Fonts collected. 
+Kannada Fonts collected.\
 source: https://kanaja.karnataka.gov.in/softwares/
